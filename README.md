@@ -1,6 +1,9 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Java and JavaScript ...
 - Exploring Front-End Web
+- Leetcode 300+
+- AR effects Creater
+- IT '24'
 <!--
 **rahul003t/rahul003t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
