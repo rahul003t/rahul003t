@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Java and JavaScript ...
 - Exploring Front-End Web
-- Solved almost Leetcode 300+ Problems
+- Solved Leetcode 300+ Problems
 - AR effects Creater
 - IT '24'
 <!--
