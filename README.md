@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **rahulgorai8372@gmail.com**
 
-- ⚡ Fun fact **I am a gully Cricketer**
+- ⚡ Fun fact **I am a Noob**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
