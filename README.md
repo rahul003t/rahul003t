@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **rahulgorai8372@gmail.com**
 
-- ⚡ Fun fact **I am a Noob**
+- ⚡ Fun fact **I am a Memer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
