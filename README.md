@@ -1,5 +1,4 @@
 
-Skip to content
 
 <h1 align="center">Hi 👋, I'm Rahul Gorai</h1>	
 <h3 align="center">A Techno freak who likes to explore different Technologies!!</h3>	
@@ -40,29 +39,4 @@ Skip to content
 0 comments on commit c03c147
 @rahul003t
  
-Add heading textAdd bold text, <Ctrl+b>Add italic text, <Ctrl+i>
-Add a quote, <Ctrl+Shift+.>Add code, <Ctrl+e>Add a link, <Ctrl+k>
-Add a bulleted list, <Ctrl+Shift+8>Add a numbered list, <Ctrl+Shift+7>Add a task list, <Ctrl+Shift+l>
-Directly mention a user or team
-Reference an issue, pull request, or discussion
-Add saved reply
-Leave a comment
-No file chosen
-Attach files by dragging & dropping, selecting or pasting them.
-Styling with Markdown is supported
- You’re receiving notifications because you’re watching this repository.
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Update README.md · rahul003t/rahul003t@c03c147
+
