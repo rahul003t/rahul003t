@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/rahulgoari22" target="blank"><img src="https://img.shields.io/twitter/follow/rahulgoari22?logo=twitter&style=for-the-badge" alt="rahulgoari22" /></a> </p>	
 
-- 🌱 I’m currently learning **MERN , DSA**	
+- 🌱 I’m currently learning **MERN Stck , DSA**	
 
-- 💬 Ask me about **Java,JavaScript**	
+- 💬 Ask me about **Java,JavaScript,ReactJs**	
 
 - 📫 How to reach me **rahulgorai8372@gmail.com**	
 
